@@ -27,8 +27,6 @@ module.exports = {
     "^.+\\.(ts|tsx)$": "ts-jest"
   },
 
-  setupFiles: ['./jest-setup.ts'],
-
   // A preset that is used as a base for Jest's configuration
   preset: 'ts-jest',
 
